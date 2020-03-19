@@ -1,4 +1,10 @@
-# GiM
-#The first task of Start.NG
-#
-#This branch contains a single page of Start.NG basic details
+
+        #Full Name: Oyiih Ikenna Chuwubundu
+        #
+        #Email: ikennaoyiih@gmail.com
+        #
+        #Slack Username: @GiM
+        #
+        #Tracks: Frontend, Backend
+        #
+        #Courses: HTML, CSS, JavaScript, Go
